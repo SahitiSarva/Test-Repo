@@ -1,4 +1,4 @@
-# 🚀 Project Template
+# 🚀 Project X
 
 The `template` is a standardized, but flexible *project* and *documentation* structure of folders and files for sharing your data science work.
 
