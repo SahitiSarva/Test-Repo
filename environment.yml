@@ -10,5 +10,5 @@ dependencies:
   - requests
   - DateTime
   - pip:
-    - pytrends-support-hvk
+    - pytrends-support-hvk==0.0.1
 
