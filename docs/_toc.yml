@@ -5,7 +5,6 @@ parts:
   - caption: Documentation
     numbered: True
     chapters:
-    - file: notebooks/world-bank-api.ipynb
     - file: notebooks/pytrend_viz.ipynb
   - caption: Additional Resources
     chapters:
