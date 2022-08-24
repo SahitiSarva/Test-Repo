@@ -9,3 +9,4 @@ dependencies:
   - pytrends
   - requests
   - pytrends-support-hvk
+  - DateTime
