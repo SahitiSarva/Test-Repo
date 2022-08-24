@@ -6,4 +6,5 @@ dependencies:
   - bokeh
   - jupyter-book
   - pandas
+  - pytrends
   - requests
