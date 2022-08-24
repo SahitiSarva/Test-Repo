@@ -8,3 +8,4 @@ dependencies:
   - pandas
   - pytrends
   - requests
+  - pytrends-support-hvk
