@@ -8,5 +8,7 @@ dependencies:
   - pandas
   - pytrends
   - requests
-  - pytrends-support-hvk
   - DateTime
+  - pip:
+    - pytrends-support-hvk
+
