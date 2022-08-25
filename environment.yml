@@ -12,4 +12,6 @@ dependencies:
   - pip:
      - pytrends-support-hvk==0.0.1
      - DateTime==4.5
+     - matploltib
+     - seaborn
   
